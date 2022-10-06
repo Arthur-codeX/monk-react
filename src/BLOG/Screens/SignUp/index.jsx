@@ -1,4 +1,4 @@
-const Login = () => {
+const SignIn = () => {
   return (
     <div className=" p-4 flex flex-col gap-y-2">
       <div>
@@ -16,4 +16,4 @@ const Login = () => {
   );
 };
 
-export default Login;
+export default SignIn;
